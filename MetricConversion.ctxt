@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MetricConversion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MetricConversion\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=INCH
+comment1.target=double\ InchesToCent(double)
+comment2.params=Feet
+comment2.target=double\ FeetToCent(double)
+comment3.params=Yards
+comment3.target=double\ YardsToMeters(double)
+comment4.params=Miles
+comment4.target=double\ MilesToKilo(double)
+comment5.params=Centimeters
+comment5.target=double\ CentToInch(double)
+comment6.params=Centimeters
+comment6.target=double\ CentTofeet(double)
+comment7.params=Meters
+comment7.target=double\ MetersToYard(double)
+comment8.params=Kilometers
+comment8.target=double\ KilometersToMiles(double)
+numComments=9
